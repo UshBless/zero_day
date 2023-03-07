@@ -1,1 +1,1 @@
-ALX program
+This file is mandatory in projects
